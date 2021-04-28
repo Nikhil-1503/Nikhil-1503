@@ -4,7 +4,7 @@
 
 <hr />
 
-##Connect with me
+## Connect with me
 
 [<img align = 'left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nikhil-1503)
 [<img align = 'left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-shanbhag-29742a187/)
@@ -13,7 +13,7 @@
 
 <br />
 
-##Languages and Tools
+## Languages and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
