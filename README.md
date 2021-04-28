@@ -5,7 +5,7 @@
 <br />
 <br />
 
-**Social**
+**Connect with me**
 <br />
 [<img align = 'left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nikhil-1503)
 [<img align = 'left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-shanbhag-29742a187/)
