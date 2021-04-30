@@ -1,6 +1,6 @@
 <h1 align="center"> I am Nikhil Shanbhag </h1>
 
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-1503&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's GitHub stats](https://github-readme-stats-sepia-five.vercel.app/api?username=Nikhil-1503&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 
@@ -27,6 +27,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-1503&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=Nikhil-1503&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Nikhil-1503)
