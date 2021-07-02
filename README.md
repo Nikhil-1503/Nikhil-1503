@@ -1,13 +1,13 @@
 <h1 align="center"> I am Nikhil Shanbhag </h1>
 
-[![Nikhil's GitHub stats](https://github-readme-stats-sepia-five.vercel.app/api?username=Nikhil-1503&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's GitHub stats](https://github-readme-stats-sepia-five.vercel.app/api?username=Nikhil-1503&count_private=true&show_icons=true&theme=algolia&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 
-[<img align = 'left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nikhil-1503)
-[<img align = 'left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-shanbhag-29742a187/)
-[<img align = 'left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nikhil.shanbhag.988)
-[<img align = 'left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nikhil.1503/) 
+[<img align = 'left' src='https://image.flaticon.com/icons/png/512/733/733609.png' alt='github' height='40'>](https://github.com/Nikhil-1503)
+[<img align = 'left' src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-shanbhag-29742a187/)
+[<img align = 'left' src='https://image.flaticon.com/icons/png/512/1384/1384053.png' alt='facebook' height='40'>](https://www.facebook.com/nikhil.shanbhag.988)
+[<img align = 'left' src='https://image.flaticon.com/icons/png/512/2111/2111463.png' alt='instagram' height='40'>](https://www.instagram.com/nikhil.1503/) 
 
 <br />
 <br />
@@ -27,6 +27,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=Nikhil-1503&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=Nikhil-1503&count_private=true&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Nikhil-1503)
