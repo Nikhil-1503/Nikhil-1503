@@ -28,6 +28,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=Nikhil-1503&count_private=true&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=Nikhil-1503&theme=algolia&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Nikhil-1503)
