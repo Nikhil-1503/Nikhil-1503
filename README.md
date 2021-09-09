@@ -8,7 +8,7 @@
 [<img align = 'left' src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-shanbhag-29742a187/)
 [<img align = 'left' src='https://image.flaticon.com/icons/png/512/1384/1384053.png' alt='facebook' height='40'>](https://www.facebook.com/nikhil.shanbhag.988)
 [<img align = 'left' src='https://image.flaticon.com/icons/png/512/2111/2111463.png' alt='instagram' height='40'>](https://www.instagram.com/nikhil.1503/) 
-[<img align = 'left' src='https://image.flaticon.com/icons/png/512/733/733579.png' alt='twitter' height='40'>](https://twitter.com/NikhilShan15)
+[<img align = 'left' src='https://image.flaticon.com/icons/png/512/733/733579.png' alt='twitter' height='40'>](https://twitter.com/Nikhil_1503)
 
 <br />
 <br />
