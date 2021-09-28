@@ -1,6 +1,5 @@
 <h1 align="center"> I am Nikhil Shanbhag </h1>
 
-### GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api?username=Nikhil-1503&count_private=true&show_icons=true&include_all_commits=true&theme=algolia"/>
