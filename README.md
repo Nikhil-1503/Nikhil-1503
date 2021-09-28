@@ -1,6 +1,12 @@
 <h1 align="center"> I am Nikhil Shanbhag </h1>
 
-[![Nikhil's GitHub stats](https://github-readme-stats-sepia-five.vercel.app/api?username=Nikhil-1503&count_private=true&show_icons=true&theme=algolia&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Analytics
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api?username=Nikhil-1503&count_private=true&show_icons=true&include_all_commits=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=Nikhil-1503&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### Connect with me
 
@@ -30,7 +36,5 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
 
 <br />
-
-[![Top Langs](https://github-readme-stats-sepia-five.vercel.app/api/top-langs/?username=Nikhil-1503&theme=algolia&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Nikhil-1503)
