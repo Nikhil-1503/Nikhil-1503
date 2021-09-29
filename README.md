@@ -15,6 +15,8 @@
 [<img align = 'left' src='https://image.flaticon.com/icons/png/512/2111/2111463.png' alt='instagram' height='40'>](https://www.instagram.com/nikhil.1503/) 
 [<img align = 'left' src='https://image.flaticon.com/icons/png/512/733/733579.png' alt='twitter' height='40'>](https://twitter.com/Nikhil_1503)
 
+<img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="480" height="300">
+
 <br />
 <br />
 
@@ -42,4 +44,4 @@
 </a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/Nikhil-1503)
+<!--![Profile views](https://gpvc.arturio.dev/Nikhil-1503)-->
