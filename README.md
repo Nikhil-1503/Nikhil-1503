@@ -39,10 +39,4 @@
 <br />
 <br />
 
-<p align="left">
-<a href="https://github.com/Nikhil-1503">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Nikhil-1503&theme=algolia&hide_border=false"/>
-</a>
-</p>
-
 <!--![Profile views](https://gpvc.arturio.dev/Nikhil-1503)-->
