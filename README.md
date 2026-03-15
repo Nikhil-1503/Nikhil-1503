@@ -42,4 +42,6 @@
 <br />
 <br />
 
-<!--![Profile views](https://gpvc.arturio.dev/Nikhil-1503)-->
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-1503&theme=algolia&layout=compact"" alt="nikhil-1503" />
+</p>
